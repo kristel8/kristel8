@@ -96,6 +96,20 @@ Building efficient, scalable and user-centered web applications 🅰️
 
 <br/>
 
+## 🤖 Currently Learning — AI Development
+
+<img align="right" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="ai" />
+
+I'm deepening my expertise at the intersection of **frontend engineering and Artificial Intelligence** — building smarter, AI-powered experiences on top of my Angular foundation.
+
+- 🧠 **LLM integration** — connecting apps to models via APIs and SDKs
+- 💬 **Prompt engineering** — designing reliable, production-ready prompts
+- 🔎 **RAG & AI agents** — retrieval-augmented and agentic workflows
+- ⚡ **AI-assisted development** — Claude, GitHub Copilot & Gemini in my daily workflow
+- 🎨 **AI-driven UX** — embedding intelligent, conversational interfaces into web products
+
+<br clear="right"/>
+
 ## 🎓 Education & Certifications
 
 <div align="center">
@@ -127,9 +141,13 @@ Building efficient, scalable and user-centered web applications 🅰️
 
 <div align="center">
 
-> Great frontend isn't only about how it looks.
-> It's about building applications that are **scalable, accessible and easy to maintain** —
-> where solid architecture and clean code go hand in hand.
+> The interface is where technology becomes **human**.
+>
+> I don't just write code that runs — I craft experiences that *feel right*
+> and architectures that *age well*.
+>
+> _The best software isn't the one with the most features._
+> _It's the one people forget they're using._
 
 </div>
 
@@ -142,13 +160,15 @@ Building efficient, scalable and user-centered web applications 🅰️
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristel-munayco/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kristelmunayco@hotmail.com)
 
+📫 Reach me at **kristelmunayco@hotmail.com**
+
 </div>
 
 <br/>
 
 <div align="center">
 
-✨ *"Always building. Always learning."* ✨
+✨ *"Turning ideas into interfaces — now with a little help from AI."* ✨
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=dd0031&height=100&section=footer" width="100%" />
 
