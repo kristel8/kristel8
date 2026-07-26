@@ -86,21 +86,6 @@ Building efficient, scalable and user-centered web applications 🅰️
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kristel8&show_icons=true&hide_border=true&theme=radical&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristel8&layout=compact&hide_border=true&theme=radical" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kristel8&hide_border=true&theme=radical" alt="streak" />
-
-</div>
-
-<br/>
-
 ## 💼 Experience Highlights
 
 - 🏥 Led migration of pharmaceutical retail portals (Inkafarma, Mifarma) from **Angular 9 to 21**
@@ -108,6 +93,33 @@ Building efficient, scalable and user-centered web applications 🅰️
 - 🧩 Migrated legacy banking systems to **micro frontends** and **Nx monorepos**
 - ⚙️ Implemented **CI/CD pipelines** in Azure DevOps and Jenkins
 - 🎨 Designed cross-platform digital banking products and complete **Design Systems**
+
+<br/>
+
+## 🎓 Education & Certifications
+
+<div align="center">
+
+![Master](https://img.shields.io/badge/Master's_in_Business_Management-DD0031?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Systems Engineering](https://img.shields.io/badge/BSc_Systems_Engineering-002855?style=for-the-badge&logo=graduation-cap&logoColor=white)
+
+![Meta React](https://img.shields.io/badge/Meta_·_Front--End_React-0866FF?style=for-the-badge&logo=meta&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum_Fundamentals_Certified-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![UX/UI](https://img.shields.io/badge/UX_%26_UI_Design_Specialization-FF61F6?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+<br/>
+
+## 🗣️ Languages
+
+<div align="center">
+
+![Spanish](https://img.shields.io/badge/Spanish-Native-DD0031?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Intermediate-002855?style=for-the-badge)
+![Japanese](https://img.shields.io/badge/Japanese-Basic-BC002D?style=for-the-badge)
+
+</div>
 
 <br/>
 
